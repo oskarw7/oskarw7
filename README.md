@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oskar Wiśniewski</h1>
 <h3 align="center">IT enthusiast from Poland, student of Computer Science at Gdańsk University of Technology</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/oskarw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oskarw7" height="30" width="40" /></a>
 <a href="https://fb.com/smart.skar.ymg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smart.skar.ymg" height="30" width="40" /></a>
