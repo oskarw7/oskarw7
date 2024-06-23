@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oskar Wiśniewski</h1>
-<h3 align="center">IT enthusiast from Poland</h3>
+<h3 align="center">IT enthusiast from Poland, student of Computer Science at Gdańsk University of Technology</h3>
 
-<p align="left">E-mail: **oskarwisniewski2004@gmail.com**</p>
+<p align="left">E-mail: oskarwisniewski2004@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
