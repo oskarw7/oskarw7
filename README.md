@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/oskarw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oskarw7" height="30" width="40" /></a>
 <a href="https://fb.com/smart.skar.ymg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smart.skar.ymg" height="30" width="40" /></a>
-<a href="mailto:oskarwisniewski2004@gmail.com" target="blank"><img src="https://www.google.pl/url?sa=i&url=https%3A%2F%2Ffreesvg.org%2Fmail-envelope&psig=AOvVaw1O1X5q9KTQ8SfjNTK4ALHl&ust=1719267587432000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJiz4YPh8oYDFQAAAAAdAAAAABAJ" alt="oskarwisniewski2004@gmail.com" height="30" width="40" /></a>
+<a href="mailto:oskarwisniewski2004@gmail.com" target="blank"><img src="https://freesvg.org/img/simplemail.png" alt="oskarwisniewski2004@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
