@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oskar Wiśniewski</h1>
-<h3 align="center">IT enthusiast from Poland, student of Computer Science at Gdańsk University of Technology</h3>
+<h3 align="center">Computer Science student at Gdańsk University of Technology</h3>
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
