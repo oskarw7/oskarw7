@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true)<br/>
+![](https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
