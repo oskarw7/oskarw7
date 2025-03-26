@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="900px" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html"/>
+      <img width="300px" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html"/>
     </td>
   </tr>
 </table>
