@@ -13,18 +13,27 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <!-- Desktop Layout: Side by Side (Default) -->
-  <div style="display: inline-block; margin-right: 20px; text-align: center;">
-    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="45%" />
+  <!-- Desktop Layout: Side by Side (using width for responsiveness) -->
+  <div style="display: inline-block; margin-right: 20px; text-align: center; width: 45%;">
+    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="100%" />
   </div>
 
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true" width="45%" />
+  <div style="display: inline-block; text-align: center; width: 45%;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true" width="100%" />
   </div>
 
   <!-- Third Widget Centered Below -->
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html" width="40%" />
+  <div style="margin-top: 20px; width: 50%;">
+    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html" width="100%" />
+  </div>
+
+  <!-- For Mobile View, Resize the images -->
+  <div style="display: none; text-align: center; margin-top: 20px;">
+    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="80%" />
+    <br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true" width="80%" />
+    <br/>
+    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html" width="80%" />
   </div>
 
 </div>
