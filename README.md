@@ -13,31 +13,19 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<!-- Desktop Layout (Table) -->
-<table style="width:100%; max-width:900px;">
+<!-- Desktop Layout: Table -->
+<table>
   <tr>
-    <td style="width:50%;">
-      <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" style="width:100%;"/>
+    <td>
+      <img width="100%" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
     </td>
-    <td style="width:50%;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true" style="width:100%;"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html" style="width:50%;"/>
+    <td>
+      <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true"/>
     </td>
   </tr>
 </table>
 
-<!-- Mobile Layout (Separate, Full Width) -->
-<style>
-  @media (max-width: 768px) {
-    table { display: block; }
-    td { display: block; width: 100% !important; }
-    img { width: 100% !important; }
-  }
-</style>
+<!-- Third Widget Centered Below -->
+<img width="50%" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html"/>
 
 </div>
-
