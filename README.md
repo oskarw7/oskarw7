@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<table border="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <img width="100%" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
