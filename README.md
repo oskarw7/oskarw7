@@ -12,15 +12,21 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true"/>
-    </td>
-  </tr>
-</table>
-<img width="40%" src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html"/>
+
+  <!-- Desktop Layout: Side by Side (Default) -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+    <div style="flex: 1; max-width: 48%; text-align: center;">
+      <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api?username=oskarw7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="100%" />
+    </div>
+    <div style="flex: 1; max-width: 48%; text-align: center;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=oskarw7&theme=transparent&hide_border=true&hide_total_contributions=true" width="100%" />
+    </div>
+  </div>
+
+  <!-- Third Widget Centered Below -->
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats-oskarw7s-projects.vercel.app/api/top-langs/?username=oskarw7&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=cmake,makefile,shaderlab,html" width="50%" />
+  </div>
+
 </div>
+
