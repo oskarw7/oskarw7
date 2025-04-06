@@ -4,7 +4,7 @@
 # 📭 Contact me:
 <p align="left">
 <a href="mailto:oskarwisniewski2004@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" alt="oskarwisniewski2004@gmail.com" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/oskar-wiśniewski-aa4ab935a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="smart.skar.ymg" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/oskar-wiśniewski-aa4ab935a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="smart.skar.ymg" height="30" width="30" /></a>
 <a href="https://fb.com/smart.skar.ymg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smart.skar.ymg" height="30" width="40" /></a>
 </p>
 
